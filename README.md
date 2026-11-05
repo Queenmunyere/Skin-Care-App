@@ -3,7 +3,10 @@
 ! [Photo of image](https://a.co/d/03Mc9FIV)
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 52a088771d610469b84bd242f93fd6d7f81e3c75
 This project aims at build a model that will ask people from all over to self analysis there skin and know the needs of their own skin without visiting the dermatologists.
 ## 2. Business Understanding
 
