@@ -80,3 +80,45 @@ Main_Ingredient                  Main product ingredient
 - Low rating, high price: Brands that may need to review product quality, value, or customer expectations.
 - Low rating, low price: Affordable brands whose products may have opportunities for improvement.
 - Larger circles: Brands with more reviews across their products, based on their total review count.
+
+## Model and Evaluation.
+- Select input features
+- Preprocess the features
+    - Numeric-transformer
+    - Categorical-transformer
+    - Column-transformer
+- Transform product features
+    - Product_matrix
+- Calculate cosine similarity
+    - Similarity_matrix
+
+### MODELS
+- Decision Tree
+- Random Forest
+- Linear regression - being the best model
+- Content based recommendation
+
+## Live Application - Streamlit
+https://skin-care-app-nqpcqo83qr6rttjctkjune.streamlit.app/
+
+## Overall Conclusion
+- The project evaluated three machine learning models to determine their ability to predict the target variable in the Beauty and Cosmetics dataset. Linear Regression achieved the best relative performance.
+
+## Recommendations
+
+1. Personalised product recommendations: Beauty companies should consider customers' skin types, gender preferences and skincare needs when recommending products to improve product suitability.
+
+2. Improve product selection: Consumers should consider product categories and main ingredients when selecting skincare products to ensure that their choices align with their skincare requirements.
+
+3. Monitor customer satisfaction: Brands should regularly analyse customer ratings and reviews to understand consumer experiences, identify areas for improvement and maintain product quality.
+
+4. Competitive pricing strategies: Beauty companies should evaluate product prices across different categories and brands to establish competitive and affordable pricing strategies.
+
+5. Brand performance improvement: Businesses should use customer feedback, product ratings and pricing information to identify strengths and weaknesses in their product offerings.
+
+6. Ingredient transparency: Manufacturers should provide clear information about product ingredients to help consumers make more informed purchasing decisions.
+
+7. Adopt data-driven recommendation systems: Beauty businesses should embrace data analytics and recommendation technologies to improve product discovery, personalise customer experiences and support better purchasing decisions.
+
+8. Continuous dataset improvement: Additional information about customer preferences, product effectiveness and purchasing behaviour should be collected to improve the accuracy and usefulness of future analyses.
+
