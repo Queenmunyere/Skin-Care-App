@@ -55,3 +55,28 @@ Rating                           Customer product rating
 Number_of_Reviews                Number of customer reviews
 Main_Ingredient                  Main product ingredient
 
+## DATA VISUALIZATION
+
+
+
+![alt text](image.png)
+
+
+
+### Findings 
+- Dataset contains cosmetic products across a broad range of prices,with a relatively even distribution across price intervals.
+- Highly suggesting that the dataset represents different price segments rather than concentrating mainly on low-priced or high-priced products.
+
+
+
+
+![alt text](image-2.png)
+
+
+
+### How to interpret the graph:
+- High rating, low price: Brands offering relatively affordable products with high average ratings.
+- High rating, high price: Brands with higher-priced products and high average ratings.
+- Low rating, high price: Brands that may need to review product quality, value, or customer expectations.
+- Low rating, low price: Affordable brands whose products may have opportunities for improvement.
+- Larger circles: Brands with more reviews across their products, based on their total review count.
