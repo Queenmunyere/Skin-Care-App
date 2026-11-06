@@ -1,6 +1,6 @@
 # Skin-Care 
 
-! [Photo of image](https://a.co/d/03Mc9FIV)
+Pink Sakura Skincare Set for Teens 🎀 Cute Self-Care Gift Idea & Kawaii Beauty Essentials (1)
 
 
 This project aims at build a model that will ask people from all over to self analysis there skin and know the needs of their own skin without visiting the dermatologists.
