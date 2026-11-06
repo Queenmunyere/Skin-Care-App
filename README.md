@@ -1,6 +1,8 @@
 # Skin-Care 
 
  ! [Photo of beauty](https://github.com/Queenmunyere/Skin-Care-App/blob/main/Pink%20Sakura%20Skincare%20Set%20for%20Teens%20%F0%9F%8E%80%20Cute%20Self-Care%20Gift%20Idea%20%26%20Kawaii%20Beauty%20Essentials%20(1).jpg)
+ 
+ ![Pink Sakura Skincare Set](PASTE_IMAGE_URL_HERE)
 
 
 This project aims at build a model that will ask people from all over to self analysis there skin and know the needs of their own skin without visiting the dermatologists.
